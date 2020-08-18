@@ -2,7 +2,7 @@
 
 Formação acadêmica
 + Uninove 
-+ ADS analise e desenvolvimento de sistemas
++ *ADS *analise e desenvolvimento de sistemas
  # Experiência
  + Administração Poupatempo tempo
 
